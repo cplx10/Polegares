@@ -1,0 +1,24 @@
+[
+    {
+        "fabricante": "Mercedes-Benz",
+        "modelo": "Arocs",
+        "placa": "TRK0R45",
+        "data": 2021,
+        "cor": "Verde",
+        "saida": "02/06/2024, 22:05",
+        "entrada": "",
+        "km_saida": "536 km",
+        "km_final": ""
+    },
+    {
+        "fabricante": "Mercedes-Benz",
+        "modelo": "Arocs",
+        "placa": "PRA6G15",
+        "data": 2022,
+        "cor": "vermelho",
+        "saida": "24/05/2024, 14:54",
+        "entrada": "03/06/2024, 13:01",
+        "km_saida": "1.053 km",
+        "km_final": "1.157 km"
+    }
+]

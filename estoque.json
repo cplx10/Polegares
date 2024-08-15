@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "nome": "Placa",
+        "info": "",
+        "quantidade": 20,
+        "tipo": "Painel Solar"
+    },
+    {
+        "id": 1,
+        "nome": "Estrutura de montagem",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Painel Solar"
+    },
+    {
+        "id": 2,
+        "nome": "Estrutura de montagem",
+        "info": "Bateria de ion-l\u00edtio, 400W",
+        "quantidade": 10,
+        "tipo": "Bateria"
+    },
+    {
+        "id": 3,
+        "nome": "Inversor",
+        "info": "Inversor para caminh\u00f5es ou algo assim.",
+        "quantidade": 37,
+        "tipo": "Inversor"
+    },
+    {
+        "id": 4,
+        "nome": "Controlador de carga MPPT",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "CC"
+    },
+    {
+        "id": 5,
+        "nome": "Controlador de carga PWM",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "CC"
+    },
+    {
+        "id": 6,
+        "nome": "Cabo de energia solar",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Cabos"
+    },
+    {
+        "id": 7,
+        "nome": "Conector MC4",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Cabos"
+    },
+    {
+        "id": 8,
+        "nome": "Manual de instala\u00e7\u00e3o e opera\u00e7\u00e3o",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Manuten\u00e7\u00e3o"
+    },
+    {
+        "id": 9,
+        "nome": "Ferramenta de montagem",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Manuten\u00e7\u00e3o"
+    },
+    {
+        "id": 10,
+        "nome": "Estrutura de montagem",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Monitoramento"
+    },
+    {
+        "id": 11,
+        "nome": "Fus\u00edvel",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Reposi\u00e7\u00e3o"
+    },
+    {
+        "id": 12,
+        "nome": "Conector sobressalente",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Reposi\u00e7\u00e3o"
+    },
+    {
+        "id": 13,
+        "nome": "Estrutura de montagem",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Resfriamento"
+    },
+    {
+        "id": 14,
+        "nome": "Extintor de inc\u00eandio",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Seguran\u00e7a"
+    },
+    {
+        "id": 15,
+        "nome": "\u00d3culos de prote\u00e7\u00e3o",
+        "info": "",
+        "quantidade": 10,
+        "tipo": "Seguran\u00e7a"
+    }
+]
